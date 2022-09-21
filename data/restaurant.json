@@ -1,0 +1,26 @@
+[
+    {
+        "id": "r1",
+        "name":"Bar 205",
+"address":"mobil-nsawam",
+"cuisine":"chinese",
+"website":"http:/bar205.com",
+"description":"Excellent Dishes"},
+
+{
+    "id": "r2",
+    "name":"Eddys Pizza",
+"address":"satellite-kuntunse",
+"cuisine":"Ghanaian",
+"website":"http://eddyspizza.com",
+"description":"Free extra toppings"},
+
+{
+    "id": "r3",
+    "name":"Guest Farm",
+"address":"Ntoaso-Adoagyiri",
+"cuisine":"Ghanaian",
+"website":"http://guestfarm.com",
+"description":"They have got some delicious foods."
+}
+]
